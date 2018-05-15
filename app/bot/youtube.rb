@@ -1,4 +1,5 @@
 # app/bot/example.rb
+require "facebook/messenger"
 
 include Facebook::Messenger
 
